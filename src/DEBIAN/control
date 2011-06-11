@@ -1,0 +1,8 @@
+Package: sbt-SBT_VERSION 
+Version: 1 
+Section: base 
+Priority: optional 
+Architecture: all 
+Depends: bash, java-sdk
+Maintainer: wroclaw-scala-enthusiasts@googlegroups.com
+Description: Simple Build Tool
