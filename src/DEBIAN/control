@@ -1,4 +1,4 @@
-Package: sbt-SBT_VERSION 
+Package: PACKAGE_NAME 
 Version: 1 
 Section: base 
 Priority: optional 

@@ -1,3 +1,3 @@
 #!/bin/sh
-chmod +x /usr/lib/sbt-SBT_VERSION/sbt
-ln -s -t /usr/bin /usr/lib/sbt-SBT_VERSION/sbt
+chmod +x /usr/lib/PACKAGE_NAME/sbt
+ln -s -t /usr/bin /usr/lib/PACKAGE_NAME/sbt

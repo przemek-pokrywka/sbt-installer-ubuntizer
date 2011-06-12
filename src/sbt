@@ -1,2 +1,2 @@
 #!/bin/sh
-java -Dhttp.proxyUser=username -Dhttp.proxyPassword=mypassword -Xmx512M -jar /usr/lib/sbt-SBT_VERSION/sbt-launch-SBT_VERSION.jar "$@"
+java -Dhttp.proxyUser=username -Dhttp.proxyPassword=mypassword -Xmx512M -jar /usr/lib/PACKAGE_NAME/JAR_NAME "$@"
